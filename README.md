@@ -1,5 +1,7 @@
 # Lostify
 
+[![Build and deploy to Azure](https://github.com/CS253-Group-6/Lostify/actions/workflows/backend_lostify.yml/badge.svg)](https://github.com/CS253-Group-6/Lostify/actions/workflows/backend_lostify.yml)
+
 Repository for project work done in partial fulfilment of the requirements of the course [CS253: Software Development and Operations](https://www.cse.iitk.ac.in/pages/CS253.html) offered at [IIT Kanpur](https://www.cse.iitk.ac.in) in Winter 2025 under the guidance of [Prof. Indranil Saha](https://www.cse.iitk.ac.in/users/isaha).
 
 ## Description
