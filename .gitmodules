@@ -1,3 +1,6 @@
 [submodule "frontend-android"]
 	path = frontend-android
 	url = https://github.com/CS253-Group-6/Lostify-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/CS253-Group-6/Lostify-backend.git
